@@ -32,6 +32,7 @@ Because the game developers didn't add Discord rich presence themselves, there i
 ## How to use
 
 pypresence is needed.
+
 ```pip install pypresence```
 
 Run main.py and it will detect when your game is open. Main.py needs to be running in the background for the script to work.
